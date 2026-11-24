@@ -1,0 +1,202 @@
+[
+  {
+    "arquivo": "telefone.png",
+    "nome": "Telefone",
+    "app": "Telefone"
+  },
+  {
+    "arquivo": "mensagens.png",
+    "nome": "Mensagens",
+    "app": "Mensagens"
+  },
+  {
+    "arquivo": "contatos.png",
+    "nome": "Contatos",
+    "app": "Contatos"
+  },
+  {
+    "arquivo": "camera.png",
+    "nome": "Câmera",
+    "app": "Câmera"
+  },
+  {
+    "arquivo": "galeria.png",
+    "nome": "Galeria",
+    "app": "Galeria / Fotos"
+  },
+  {
+    "arquivo": "internet.png",
+    "nome": "Internet",
+    "app": "Samsung Internet / Navegador"
+  },
+  {
+    "arquivo": "navegador.png",
+    "nome": "Navegador",
+    "app": "Chrome / Firefox"
+  },
+  {
+    "arquivo": "configuracoes.png",
+    "nome": "Configurações",
+    "app": "Configurações"
+  },
+  {
+    "arquivo": "relogio.png",
+    "nome": "Relógio",
+    "app": "Relógio"
+  },
+  {
+    "arquivo": "calendario.png",
+    "nome": "Calendário",
+    "app": "Calendário"
+  },
+  {
+    "arquivo": "calculadora.png",
+    "nome": "Calculadora",
+    "app": "Calculadora"
+  },
+  {
+    "arquivo": "notas.png",
+    "nome": "Notas",
+    "app": "Samsung Notes / Keep"
+  },
+  {
+    "arquivo": "arquivos.png",
+    "nome": "Meus Arquivos",
+    "app": "Meus Arquivos / Drive"
+  },
+  {
+    "arquivo": "play_store.png",
+    "nome": "Play Store",
+    "app": "Play Store"
+  },
+  {
+    "arquivo": "galaxy_store.png",
+    "nome": "Galaxy Store",
+    "app": "Galaxy Store / Compras"
+  },
+  {
+    "arquivo": "email.png",
+    "nome": "E-mail",
+    "app": "Gmail / Outlook / E-mail"
+  },
+  {
+    "arquivo": "video.png",
+    "nome": "Vídeo",
+    "app": "YouTube / Netflix / Streaming"
+  },
+  {
+    "arquivo": "mapas.png",
+    "nome": "Mapas",
+    "app": "Maps / Waze"
+  },
+  {
+    "arquivo": "whatsapp.png",
+    "nome": "WhatsApp",
+    "app": "WhatsApp"
+  },
+  {
+    "arquivo": "instagram.png",
+    "nome": "Instagram",
+    "app": "Instagram"
+  },
+  {
+    "arquivo": "musica.png",
+    "nome": "Música",
+    "app": "Spotify / Música"
+  },
+  {
+    "arquivo": "clima.png",
+    "nome": "Clima",
+    "app": "Clima"
+  },
+  {
+    "arquivo": "saude.png",
+    "nome": "Saúde",
+    "app": "Samsung Health"
+  },
+  {
+    "arquivo": "gravador.png",
+    "nome": "Gravador",
+    "app": "Gravador de voz"
+  },
+  {
+    "arquivo": "carteira.png",
+    "nome": "Carteira",
+    "app": "Samsung Wallet / Pix"
+  },
+  {
+    "arquivo": "banco.png",
+    "nome": "Banco",
+    "app": "Apps de banco"
+  },
+  {
+    "arquivo": "nuvem.png",
+    "nome": "Nuvem",
+    "app": "Drive / OneDrive / Fotos"
+  },
+  {
+    "arquivo": "videochamada.png",
+    "nome": "Videochamada",
+    "app": "Meet / Zoom / Teams"
+  },
+  {
+    "arquivo": "carro.png",
+    "nome": "Transporte",
+    "app": "Uber / 99"
+  },
+  {
+    "arquivo": "comida.png",
+    "nome": "Comida",
+    "app": "iFood / Delivery"
+  },
+  {
+    "arquivo": "livros.png",
+    "nome": "Leitura",
+    "app": "Kindle / Livros"
+  },
+  {
+    "arquivo": "telegram.png",
+    "nome": "Telegram",
+    "app": "Telegram"
+  },
+  {
+    "arquivo": "casa.png",
+    "nome": "Casa",
+    "app": "SmartThings"
+  },
+  {
+    "arquivo": "relogio_pulso.png",
+    "nome": "Wearable",
+    "app": "Galaxy Wearable"
+  },
+  {
+    "arquivo": "lembretes.png",
+    "nome": "Lembretes",
+    "app": "Lembretes / Tarefas"
+  },
+  {
+    "arquivo": "assistente.png",
+    "nome": "Assistente",
+    "app": "Assistentes / IA"
+  },
+  {
+    "arquivo": "ferramentas.png",
+    "nome": "Ferramentas",
+    "app": "Utilitários"
+  },
+  {
+    "arquivo": "pinheiro.png",
+    "nome": "Pinheiro",
+    "app": "Pastas / ícone extra"
+  },
+  {
+    "arquivo": "montanha.png",
+    "nome": "Serra",
+    "app": "Pastas / ícone extra"
+  },
+  {
+    "arquivo": "folha.png",
+    "nome": "Folha",
+    "app": "Pastas / ícone extra"
+  }
+]
